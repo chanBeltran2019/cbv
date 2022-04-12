@@ -54,9 +54,9 @@ include "connection.php";
         </div>
     </header>
 
-    <section class="container px-5 py-8 mx-auto mb-40 font-cabin text-rosewood">
+    <section class="container px-5 py-8 mx-auto mb-40 font-cabin text-black">
         <div class="flex flex-wrap justify-center -mx-4 -mb-10 text-center">
-            <div class="flex flex-col md:flex-row mb-20 mx-10 px-8 py-6 bg-babypink shadow-lg rounded-lg">
+            <div class="flex flex-col md:flex-row mb-20 mx-10 px-8 py-6 bg-white shadow-lg rounded-lg">
                 <div class="flex flex-col md:mr-12">
 
                     <div class="flex border-b-2 border-rosewood py-6">
@@ -177,7 +177,7 @@ include "connection.php";
                             <p class="text-xl font-medium">Total cost</p>
                             <p class="text-xl font-bold">$262.00</p>
                         </div>
-                        <button class="flex mx-auto mt-6 font-cabin bg-princeton-orange-links text-white border-0 py-2 px-5 focus:outline-none rounded">
+                        <button class="flex mx-auto mt-6 font-cabin bg-babypink text-black border-0 py-2 px-5 focus:outline-none rounded">
                         Place order
                         </button>
                     </div>
